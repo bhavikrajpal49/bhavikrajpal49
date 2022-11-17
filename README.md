@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavikrajpal49&label=Profile%20views&color=0e75b6&style=flat" alt="bhavikrajpal49" /> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on my **DSA Skills**
 
 - 🌱 I’m currently learning **MERN**
 
