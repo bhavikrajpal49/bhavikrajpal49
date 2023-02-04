@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **DSA Skills**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Web-Dev Projects**
 
