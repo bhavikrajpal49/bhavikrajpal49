@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on my **DSA Skills**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ReactNative**
 
-- 👯 I’m looking to collaborate on **Web-Dev Projects**
+- 👯 I’m looking to collaborate on **Opensrc Projects**
 
 - 📫 How to reach me **bhavik.sk.rajpal@gmail.com**
 
