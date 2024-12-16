@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavik Rajpal</h1>
-<h3 align="center">IT Student</h3>
+<h3 align="center">Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavikrajpal49&label=Profile%20views&color=0e75b6&style=flat" alt="bhavikrajpal49" /> </p>
 
